@@ -1,0 +1,18 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Tahoma"
+}
+#wrapper{
+	/*background: lightgrey;
+	width: 1100px;*/
+	padding-left: 20px;
+}
+form h4{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+input{
+	margin: 10px;
+}
